@@ -1,4 +1,4 @@
-# Frontend
-React + Vite frontend for the Home Bakery Order Management System.
+# Backend
+Spring Boot REST API using Java 17, JPA/Hibernate and MySQL.
 
-Run: `npm install` then `npm run dev`.
+Run: `mvn spring-boot:run`
